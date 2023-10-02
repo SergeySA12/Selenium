@@ -1,0 +1,10 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 2
+
+login: SergeySA12
+pswd: 2030224c72
+
+title: Selenium WebDriver
+description: Selenium WebDriver.
+content:  Selenium WebDriver
