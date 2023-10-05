@@ -1,0 +1,18 @@
+2023-10-05 21:37:12 INFO ====== WebDriver manager ======
+2023-10-05 21:37:12 INFO Get LATEST chromedriver version for google-chrome
+2023-10-05 21:37:12 INFO Get LATEST chromedriver version for google-chrome
+2023-10-05 21:37:12 INFO Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\117.0.5938.149\chromedriver-win32/chromedriver.exe] found in cache
+2023-10-05 21:37:13 INFO Test login_positive Starting
+2023-10-05 21:37:14 INFO Send 'SergeySA12' to element //*[@id="login"]/div[1]/label/input
+2023-10-05 21:37:14 INFO Send '2030224c72' to element //*[@id="login"]/div[2]/label/input
+2023-10-05 21:37:14 INFO Click login button
+2023-10-05 21:37:14 INFO Start find success text
+2023-10-05 21:37:16 INFO We find text 'Hello, SergeySA12' in login field //*[@id="app"]/main/nav/ul/li[3]/a
+2023-10-05 21:37:16 INFO Test add_post Starting
+2023-10-05 21:37:16 INFO Click contact button
+2023-10-05 21:37:17 INFO Send 'SergeyS' to element //*[@id="contact"]/div[1]/label/input
+2023-10-05 21:37:17 INFO Send 'Sergey.Str@mail.ru' to element //*[@id = "contact"]/div[2]/label/input
+2023-10-05 21:37:17 INFO Send 'Good Night' to element //*[@id = "contact"]/div[3]/label/span/textarea
+2023-10-05 21:37:17 INFO Click contact us button
+2023-10-05 21:37:18 INFO Get alert message
+2023-10-05 21:37:18 INFO Alert message is Form successfully submitted
